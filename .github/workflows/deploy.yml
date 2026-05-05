@@ -1,5 +1,3 @@
-yamlname: Deploy al hosting via FTP
-
 on:
   push:
     branches:
